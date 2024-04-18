@@ -2,7 +2,7 @@
 
 ## Goal
 
-Use your powerful weapons, viles of blood for healing, throwing axes and other dealdy weapons to slay minions and become the most powerful Vampire!
+Use your powerful weapons, viles of blood for healing, throwing axes and other dealdy weapons to slay minions and become the most powerful vampire!
 
 Traverse multiple stages and begin a new reign of terror as you leave your castle in the mountains of Translyvania. From out of the coffin to becoming the greatest Count Dracula this world has ever known!
 
