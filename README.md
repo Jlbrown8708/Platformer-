@@ -11,7 +11,7 @@ Traverse multiple stages and begin a new reign of terror as you leave your castl
 
 ## Controls
 
-Use the keys WASD to move, space bar to jump and mouse to look and active the use of mythological weapons 
+Use the keys WASD to move, space bar to jump and mouse to look and activate the use of mythological weapons 
 
 ## Developed
 
