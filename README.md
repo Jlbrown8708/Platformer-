@@ -1,4 +1,3 @@
-# Out Of The Coffin
 
 ## Goal
 
