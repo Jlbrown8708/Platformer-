@@ -16,7 +16,7 @@ Are you ready to embark on this epic adventure, wielding mythological weapons an
 
 ## Developed
 
-A 3D Platformer using C++ in Visual Studios, Version Control and Unreal Engine 4
+Created a 3D platformer using C++ in Visual Studio, integrating version control, and leveraging Unreal Engine 4 to bring this game development vision to life. 
 
 ## Screenshots
 
