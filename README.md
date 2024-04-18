@@ -12,7 +12,7 @@ Use the keys WASD to move, space bar to jump and mouse to look and active the us
 
 ## Developed
 
-A 3D Platformer using C++ in Visual Studios and Unreal Engine 4
+A 3D Platformer using C++ in Visual Studios, Version Control and Unreal Engine 4
 
 ## Screenshots
 
