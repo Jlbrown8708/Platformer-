@@ -1,6 +1,9 @@
 
 ## The Dark Lord Returns
 
+No one's his MASTER....many atrocities have been done in the name of the greater good!
+
+
 Use your powerful weapons, viles of blood for healing, throwing axes and other deadly weapons to slay minions and become the most powerful vampire!
 
 Traverse multiple stages and begin a new reign of terror as you leave your castle in the mountains of Translyvania. From out of the coffin to becoming the greatest Count Dracula this world has ever known!
