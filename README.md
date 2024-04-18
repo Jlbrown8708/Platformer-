@@ -8,7 +8,7 @@ Traverse multiple stages and begin a new reign of terror as you leave the your c
 
 ## Controls
 
-Use the WASD to move, space bar to jump and mouse to active and use high powered weapons 
+Use the keys WASD to move, space bar to jump and mouse to look and active and use high powered weapons 
 
 ## Brought to you by
 
