@@ -17,3 +17,5 @@ A 3D Platformer developed using C++ in Visual Studios and Unreal Engine 4
 ## Screenshots
 
 ![CastleLevel](https://github.com/Jlbrown8708/Platformer-/blob/main/Screenshot%202024-04-18%20095904.gif)
+
+![StormTheGates](https://github.com/Jlbrown8708/Platformer-/blob/main/Screenshot%202024-04-18%20105052.gif)
