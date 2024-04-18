@@ -10,9 +10,9 @@ Traverse multiple stages and begin a new reign of terror as you leave your castl
 
 Use the keys WASD to move, space bar to jump and mouse to look and active the use of mythological weapons 
 
-## Brought to you by
+## Created
 
-A 3D Platformer developed using C++ in Visual Studios and Unreal Engine 4
+A 3D Platformer, developed using C++ in Visual Studios and Unreal Engine 4
 
 ## Screenshots
 
