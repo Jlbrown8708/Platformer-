@@ -18,4 +18,4 @@ A 3D Platformer using C++ in Visual Studios, Version Control and Unreal Engine 4
 
 ![CastleLevel](https://github.com/Jlbrown8708/Platformer-/blob/main/Screenshot%202024-04-18%20095904.gif)
 
-![StormTheGates]
+![StormTheGates](https://github.com/Jlbrown8708/Platformer-/blob/main/Screenshot%202024-04-18%20105052.gif)
