@@ -1,7 +1,7 @@
 
 ## The Dark Lord Returns
 
-No one's his MASTER....many atrocities have been done in the name of the greater good!
+A dark and powerful figure has returned, to wreak havoc an impose his will upon others. Where his actions that are purportedly done for a noble cause can still result in harm and suffering. As the dark lord's influence spreads and the stakes escalate, you will find drawn deeper into a world where nothing is as it seems and where the line between hero and villain blurs. Ultimately, it's a tale of courage, sacrifice, and the enduring power of hope in the face of overwhelming darkness—a story that will linger in the mind long after the final chapter.
 
 ## Description
 
