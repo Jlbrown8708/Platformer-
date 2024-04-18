@@ -8,7 +8,11 @@ Unleash your dark powers in an epic adventure through multiple stages as you ris
 
 ## Controls
 
-Use the keys WASD to move, space bar to jump and mouse to look and activate the use of mythological weapons 
+In this immersive game, you'll navigate the treacherous landscapes of Transylvania using the W,A,S,D keys to move with agility and precision. As you encounter obstacles and enemies, utilize the space bar to execute daring jumps, evading danger and reaching new heights.
+
+The mouse becomes your tool of control and engagement, allowing you to survey your surroundings with a quick glance and activating the use of mythological weapons with a swift click. With each weapon at your disposal, unleash devastating attacks upon your foes, wielding the power of ancient artifacts and supernatural relics against those who dare to oppose you.
+
+Are you ready to embark on this epic adventure, wielding mythological weapons and conquering all who stand in your path? The fate of Transylvania lies in your hands.
 
 ## Developed
 
