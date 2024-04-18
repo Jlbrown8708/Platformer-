@@ -3,6 +3,7 @@
 
 No one's his MASTER....many atrocities have been done in the name of the greater good!
 
+## Description
 
 Use your powerful weapons, viles of blood for healing, throwing axes and other deadly weapons to slay minions and become the most powerful vampire!
 
