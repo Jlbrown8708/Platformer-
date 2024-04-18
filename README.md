@@ -1,5 +1,5 @@
 
-## Goal
+## The Dark Lord Returns
 
 Use your powerful weapons, viles of blood for healing, throwing axes and other deadly weapons to slay minions and become the most powerful vampire!
 
